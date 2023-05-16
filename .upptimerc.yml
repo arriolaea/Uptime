@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/arriolaea/Uptime/master/assets/upptime-icon.svg
   name: Uptime Sites
   introTitle: "**Uptime**"
-  introMessage: Hellow World
+  introMessage: Hello World
   navbar:
     - title: Status
       href: /
