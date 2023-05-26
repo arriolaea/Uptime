@@ -76,7 +76,7 @@
     "url": "https://www.elpasotexas.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.elpasotexas.gov.ico",
     "slug": "new-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 565,
     "timeMonth": 556,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-26": 0
+    }
   }
 ]
